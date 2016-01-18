@@ -1,5 +1,12 @@
-#-*- coding: utf-8 -*-
-# Author: Luo Chuwei <luochuwei@whu.edu.com>
+#-*- coding:utf-8 -*-
+############################################
+#
+#    Author: Chuwei Luo
+#    Email: luochuwei@gmail.com
+#    Date: 07/08/2015
+#    Usage: google translate with goagent proxy
+#
+############################################
 
 import cPickle
 import re
