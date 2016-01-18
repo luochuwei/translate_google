@@ -1,4 +1,12 @@
-#-*- coding: utf-8 -*-
+#-*- coding:utf-8 -*-
+############################################
+#
+#    Author: Chuwei Luo
+#    Email: luochuwei@gmail.com
+#    Date: 09/12/2015
+#    Usage: google translate
+#
+############################################
 
 import re
 import urllib,urllib2
